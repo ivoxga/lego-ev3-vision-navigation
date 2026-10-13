@@ -11,7 +11,7 @@ Everything runs in a **MATLAB App Designer** app on a computer, which talks to t
 
 > Project developed for the course **Robotics**, BSc in **Electrical and Computer Engineering**, **Instituto Politécnico do Cávado e Ave (IPCA)**, **3rd year**.
 
----
+--- 
 
 ## Repository structure
 
