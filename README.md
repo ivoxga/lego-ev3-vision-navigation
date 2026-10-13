@@ -84,11 +84,6 @@ The app has two tabs, **Configs** and **Run**.
 
 ## How it works
 
-<p align="center">
-  <img src="images/block-diagram.png" width="800"><br>
-  <em>System architecture</em>
-</p>
-
 The robot itself only drives the motors and reports the encoder readings. All the "thinking" (vision, mapping, planning and control) happens in MATLAB on the computer, because the EV3 brick doesn't have the power to process images in real time.
 
 One complete run looks like this:
