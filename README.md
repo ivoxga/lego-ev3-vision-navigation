@@ -9,6 +9,8 @@ Everything runs in a **MATLAB App Designer** app on a computer, which talks to t
   <em>A full autonomous run: the path driven by the robot (black) from its start position, around the bases</em>
 </p>
 
+> Project developed for the course **Robotics**, BSc in **Electrical and Computer Engineering**, **Instituto Politécnico do Cávado e Ave (IPCA)**, **3rd year**.
+
 ---
 
 ## Repository structure
