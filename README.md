@@ -234,4 +234,4 @@ If no sign is found, the robot **turns 20° to the left and tries again, then 20
 
 ## Author
 
-**Ivo Azevedo**
+**Ivo Azevedo & Tiago Oliveira**
